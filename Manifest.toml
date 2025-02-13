@@ -1,0 +1,12 @@
+# This file is machine-generated - editing it directly is not advised
+
+julia_version = "1.11.2"
+manifest_format = "2.0"
+project_hash = "fd92bed9b2cf24d765140d760a8a3fa2f57d4b74"
+
+[[deps.Cards]]
+git-tree-sha1 = "3b0316543e99cef7263109ed3a2b03018c51b681"
+repo-rev = "master"
+repo-url = "https://github.com/StefanKarpinski/Cards.jl"
+uuid = "fcda22a9-0d6a-4819-86f5-13bd25ca17c4"
+version = "0.1.1"

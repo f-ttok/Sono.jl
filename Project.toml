@@ -1,0 +1,6 @@
+name = "Sono"
+uuid = "b98a9405-c836-40dc-9884-40aa5363e3d6"
+version = "0.1.0"
+
+[deps]
+Cards = "fcda22a9-0d6a-4819-86f5-13bd25ca17c4"
